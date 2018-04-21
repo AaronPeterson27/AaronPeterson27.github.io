@@ -1,0 +1,14 @@
+*{
+ outline: dotted lpx green;
+ background-color: gray;
+ text-align: center;
+ font-size: 30px;
+
+}
+
+header{
+  /* background-color: f0e30e; */
+  background:url("img/bgimage.jpg");
+  color: black;
+  border: solid Spx ffef00;
+}
